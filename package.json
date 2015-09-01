@@ -10,15 +10,15 @@
     "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --require test/support/env"
   },
   "dependencies": {
-    "bson": "^0.3.1",
+    "bson": "^0.4.11",
     "debug": "^2.1.1",
     "lodash": "^3.6.0",
     "mongodb": "^2.0.31",
     "q": "^1.1.2",
-    "sift": "^1.1.0"
+    "sift": "^2.0.6"
   },
   "devDependencies": {
-    "chai": "^1.10.0",
+    "chai": "^3.2.0",
     "mocha": "^2.1.0"
   }
 }
